@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Bit coin converter</string>
+
+    <string-array name="currency_code_array">
+        <item>BRL</item>
+        <item>USD</item>
+        <item>EUR</item>
+        <item>JPY</item>
+        <item>NZD</item>
+        <item>HKD</item>
+    </string-array>
+
+    <string name="fill_textbox">Insira o valor que será convertido para BitCoin:</string>
+    <string name="textbox_placeholder">500</string>
+    <string name="btn_convert">Converter</string>
+    <string name="logo_description">Logotipo do BitCoin converter</string>
+    <string name="instructional_text">Seu dinheiro equivale a</string>
+    <string name="result">BTC %1$s</string>
+    <string name="fail_to_convert">Não foi possível realizar a conversão, por favor, tente novamente mais tarde</string>
+    <string name="value_must_be_greater_then_0">O valor a ser convertido deve ser maior do que 0</string>
+    <string name="textbox_empty">Preencha o campo com o valor à ser convertido</string>
+    <string name="currency_code_spinner">Selecione o código da moeda que você deseja converter para BitCoin</string>
+    <string name="value_textbox">Preencha com o valor que você deseja converter para BitCoin</string>
+    <string name="btn_description">Clique neste botão para realizar a conversão</string>
+</resources>
